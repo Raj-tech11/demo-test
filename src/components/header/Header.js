@@ -13,6 +13,9 @@ const Header = () => {
       <div>
         <Link to="/dashboard">Dashboard</Link>
       </div>
+      <div>
+        <Link to="/parent">Parent</Link>
+      </div>
     </header>
   );
 };
