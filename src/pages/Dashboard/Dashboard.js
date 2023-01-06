@@ -1,12 +1,5 @@
-import Button from "../../components/Button/Button";
-
 const Dashboard = () => {
-  return (
-    <div>
-      Dashboard page
-      <Button title="Cancel" />
-    </div>
-  );
+  return <div>Dashboard page</div>;
 };
 
 export default Dashboard;

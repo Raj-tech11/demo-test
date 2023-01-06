@@ -1,4 +1,26 @@
 .header-container {
   background-color: cornsilk;
   height: 100px;
+  display: flex;
+}
+
+.header-test {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-section {
+  width: 50%;
+}
+
+.link-section {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+
+span:hover {
+  background-color: blue !important;
 }
