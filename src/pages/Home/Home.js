@@ -9,7 +9,7 @@ const Home = () => {
       <div className="home-container">
         <LeftSection label="From Home" des="hi" />
         <div className="center-section">
-          <table>
+          {/* <table>
             <thead>
               <th>A</th>
               <th>B</th>
@@ -22,7 +22,7 @@ const Home = () => {
               <tr>Test3</tr>
               <tr>Test4</tr>
             </tbody>
-          </table>
+          </table> */}
         </div>
       </div>
     </>
